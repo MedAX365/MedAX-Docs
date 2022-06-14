@@ -1,8 +1,28 @@
-
 ---
-title: Welcome to MedAX - Help
-linkTitle: Documentation
-menu: {main: {weight: 20}}
+title: "Welcome to MedAX - Help"
+linkTitle: "Documentation"
+type: "docs"
+tags: ["intro"]
+weight: 20
+
+cascade:
+- _target:
+    path: "/blog/**"
+  type: "blog"
+  # set to false to include a blog section in the section nav along with docs
+  toc_root: true
+- _target:
+    path: "/**"
+    kind: "page"
+  type: "docs"
+- _target:
+    path: "/**"
+    kind: "section"
+  type: "docs"
+- _target:
+    path: "/**"
+    kind: "section"
+  type: "home"
 ---
 
 Welcome to the MedAX user guide! This guide shows you how to implement and use the MedAX application for managing the healthcare processes.
