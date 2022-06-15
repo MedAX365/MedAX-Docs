@@ -4,7 +4,7 @@ linkTitle: "Agreement Clauses"
 weight: 3
 date: 2018-07-30
 description: >
-  Learn how to create an agreement clause
+  Learn how to create an agreement clause and a line rule.
 ---
 
 # Agreement Clauses
