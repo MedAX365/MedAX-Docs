@@ -1,8 +1,8 @@
 ---
 title: "Welcome to MedAX - Help"
-linkTitle: "Documentation"
+linkTitle: "Introduction"
 type: "docs"
-tags: ["intro"]
+tags: ["Introduction"]
 weight: 20
 
 cascade:
