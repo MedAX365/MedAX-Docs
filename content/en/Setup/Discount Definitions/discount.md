@@ -12,3 +12,4 @@ description: >
 You can create discount reason in this section. Also, you can edit your reason by making it active or passive.
 
 
+[comment]: <> (example)

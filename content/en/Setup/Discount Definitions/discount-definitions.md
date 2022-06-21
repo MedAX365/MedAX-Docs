@@ -11,6 +11,8 @@ description: >
 
 You can create discount definitions by using the 'Discount' section. You can select one of your discount reason created in **Setup-Discount Definitions-Discount** and adjust the percentages in min, max, approve, default and increase columns. The percentages for discount can be applied all the services provided.
 
+[comment]: <> (example)
+
 ### *Min%*
 
 You can specify the minimum discount percentage for a discount definition.
