@@ -14,29 +14,25 @@ This personnel created in the staff list can be an active user of the program. S
 
 ### *General*
 
-#### Cash 
-You can use this option when you want to authorize the selected staff to make cashier transactions.
-#### Staff Type
-Thanks to this feature, you can choose the profession that the personnel will perform.
-#### Appointment
-If you want to evaluate the selected personnel as a resource in the appointment system, you can use this option.
-#### Analysis Type
-Each physician examines reports or analyzes related to his/her specialty. Therefore, with this option, the type of analysis that the physician examines can be selected.
-#### Personnel number
-An identification number is assigned to the workers created in the section of Human Resources-Workers. The personnel number we created in the staff list matches the mentioned identification number.
-#### Main Cashier
-Main cashier is the treasurer. At the end of the shift, all the cashiers deposit the collections and deliver the legal forms issued to the treasurer.
-#### Discount Group
-Discounts may be applied to the fees paid for the services provided by hospitals or clinics. Certain personnel have been given the privilege to offer discounts. With this option, you can include the personnel you want in the discount group you want, and you can also determine the discount options that the personnel can give. You can review the **discount definitions(link)** section about this issue.
-#### Operator
-If a staff member is designated as a physician, you can add this doctor's ability to perform surgery with the option here.
-#### Anesthesiologist
-If a staff member is designated as a physician, you can add the feature of this doctor as an anesthesiologist here, with the option here.
-#### Register Number
-Registration number is a method to “quantify” the registered physicians. It is just a way to keep track - maintain a registry and organise themselves into groups for betterment of knowledge and good practices.
-Registration number is given after “vetting” their degrees that have been obtained from credible sources meaning they are qualified to practice that particular system of medicine.
-#### Physician
-Physician price group is usually used for if there is a medical doctor that has a special or remarkable functionality (For example,a doctor might be a proffessor). A doctor might have a reputation on a medical field. That's why, the price of a service provided by such a doctor could be different from other services' prices. In this way, you can choose the appropriate price group for the selected physician.
+
+
+| Field          |  Description |  
+|----------------|:-------------|
+| `Cash`          | You can use this option when you want to authorize the selected staff to make cashier transactions. | 
+| `Staff Type`    |  Thanks to this feature, you can choose the profession that the personnel will perform.   |  
+| `Appointment`   |  If you want to evaluate the selected personnel as a resource in the appointment system, you can use this option.            | 
+| `Analysis Type` |   Each physician examines reports or analyzes related to his/her specialty. Therefore, with this option, the type of analysis that the physician examines can be selected.           |
+| `Personnel number` |  An identification number is assigned to the workers created in the section of Human Resources-Workers. The personnel number we created in the staff list matches the mentioned identification number.            |
+| `Main Cashier`  |  Main cashier is the treasurer. At the end of the shift, all the cashiers deposit the collections and deliver the legal forms issued to the treasurer.            |
+| `Discount Group` | Discounts may be applied to the fees paid for the services provided by hospitals or clinics. Certain personnel have been given the privilege to offer discounts. With this option, you can include the personnel you want in the discount group you want, and you can also determine the discount options that the personnel can give. You can review the **discount definitions(link)** section about this issue.             |
+| `Operator`      |     If a staff member is designated as a physician, you can add this doctor's ability to perform surgery with the option here.         |
+| `Anesthesiologist` |   If a staff member is designated as a physician, you can add the feature of this doctor as an anesthesiologist here, with the option here.           |
+| `Register Number` |  Registration number is a method to “quantify” the registered physicians. It is just a way to keep track - maintain a registry and organise themselves into groups for betterment of knowledge and good practices. Registration number is given after “vetting” their degrees that have been obtained from credible sources meaning they are qualified to practice that particular system of medicine.
+|
+| `Physician`     | Physician price group is usually used for if there is a medical doctor that has a special or remarkable functionality (For example,a doctor might be a proffessor). A doctor might have a reputation on a medical field. That's why, the price of a service provided by such a doctor could be different from other services' prices. In this way, you can choose the appropriate price group for the selected physician. |
+
+
+
 ### *Facility*
 In this section, it can be determined in which facility the personnel is active on which day of the week. At the same time, clinics and service units connected to the facility can be determined. In addition, it is ensured that the personnel can work in different facilities on the same day.
 
