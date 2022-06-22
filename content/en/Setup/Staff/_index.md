@@ -28,7 +28,6 @@ This personnel created in the staff list can be an active user of the program. S
 | `Operator`      |     If a staff member is designated as a physician, you can add this doctor's ability to perform surgery with the option here.         |
 | `Anesthesiologist` |   If a staff member is designated as a physician, you can add the feature of this doctor as an anesthesiologist here, with the option here.           |
 | `Register Number` |  Registration number is a method to “quantify” the registered physicians. It is just a way to keep track - maintain a registry and organise themselves into groups for betterment of knowledge and good practices. Registration number is given after “vetting” their degrees that have been obtained from credible sources meaning they are qualified to practice that particular system of medicine.
-|
 | `Physician`     | Physician price group is usually used for if there is a medical doctor that has a special or remarkable functionality (For example,a doctor might be a proffessor). A doctor might have a reputation on a medical field. That's why, the price of a service provided by such a doctor could be different from other services' prices. In this way, you can choose the appropriate price group for the selected physician. |
 
 
