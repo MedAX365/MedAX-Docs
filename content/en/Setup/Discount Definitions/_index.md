@@ -57,13 +57,7 @@ If you demand to apply discount on specific service, drug, medical supply or act
 
 ---
 
-## Discount Approve Users
 
-For an each facility, you can determine your staff that has the privilege to approve the discount requests.
-
-You can also check the discount approve users in **Setup-Facilities** section.
-
----
 
 ## Staff Discount Group
 
