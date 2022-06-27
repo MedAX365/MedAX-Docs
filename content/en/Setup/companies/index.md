@@ -47,3 +47,25 @@ The Dimension setup is required to create efficient analysis with ledger account
 You may want to create a custom dimension from the financial dimension types mentioned above. In this case, you need to create a new financial dimension and create new values in this dimension in **General Ledger-Chart of Accounts-Dimensions-Financial Dimensions** section. Because when you choose custom value in dimension setup, you can assign those dimension values to the references of the attribute type you choose. In this way, you can make financial analyzes with lower breakdowns. For example, there is a financial dimension as InsuranceType. Within this dimension, two values have been created as private insurance and others. Since accounting department demands to follow the insurance type in these two sub-sections, you choose insurance type as attribute type in the dimension setup, choose value type as custom value and select InsuranceType as dimension type. After clicking the populate button, public, private insurance, employer, individual, and supplemental references for insurance type are automatically displayed. For each of these, you can choose one of the dimension values as mentioned. In this way, the accounting department will be able to follow up all insurance types as private insurance or others.
 
 ![](assets/Dimension-2.png)
+
+### Inventory Posting
+
+### Journals
+
+The inventory journals in Supply Chain Management are used to post physical inventory transactions of various types, such as the posting of issues and receipts, inventory movements, the creation of bills of materials (BOMs), and the reconciliation of physical inventory. All these inventory journals are used in a similar way, but they are divided into different types. One of the types is movement. 
+
+A movement journal is an inventory journal that you can use to add or remove inventory. It works like an inventory adjustment journal. However, one key difference is that the main account that offsets the entry is specified.
+
+The movement journal enters beginning balances and one-off adjustments that must be expensed. For example, it's used when inventory is removed for a sales sample.
+
+When the journal is posted, the physical and financial updates occur simultaneously.
+
+Positive quantities on the journal lines represent receipts, and negative quantities represent issues.
+
+In MedAX, you can assign the predefined movements to the drug and supply fields. The movements can be created in **Inventory Management-Setup-Journal Names-Inventory** section.
+
+### Journal Events
+
+### Cost
+
+
