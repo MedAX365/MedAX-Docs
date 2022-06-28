@@ -6,13 +6,13 @@ description: >
   Learn the background of creating staff, relating adjustments and priviliges. 
 ---
 
-## Staff List
+## **Staff List**
 
 When you want to create staff within a certain legal entity, you need to use the staff list section. While creating the staff list, there must be workers registered in the system. Workers must first be created from the Human Resource-Workers section. Because when we click on 'Create Worker' on the staff list screen, a list appears on the screen. This list shows all workers hired by the company along with their staff member numbers. In this way, the workers selected from the list are associated with the professions in the staff type field (physician, nurse, etc.) and the assignment of the worker within a certain legal entity is completed.
 
 This staff member created in the staff list can be an active user of the program. So, a user name can be created for this person through the IT Department. In this case, it is necessary to associate the user with the worker. In this way, the transactions that the worker can manage in the program are specified according to the selected staff type. In fact, each of the assigned workers may not need to be a user. For example, an Anesthesia assistant may not need to make a transaction on MedAX. However, in order for the assistant to be assigned in any surgery and to be assigned other duties, he/she must be created in the staff list as a human resource.
 
-### *General*
+### **General**
 
 
 
@@ -32,44 +32,44 @@ This staff member created in the staff list can be an active user of the program
 
 
 
-### *Facility*
+### **Facility**
 In this section, it can be determined in which facility the staff member is active on which day of the week. At the same time, clinics and service units connected to the facility can be determined. In addition, it is ensured that the staff member can work in different facilities on the same day.
 
 There is a relationship between the change default facility setting and the facility section here. For example, a front office representative may work in two different facilities. If Hospital 1 is selected in the Change Default Facility session, the default facility will automatically appear as Hospital 1 in the facility section. 
 
-### *Clinic*
+### **Clinic**
 In this section, you can determine in which clinic the staff member work. And also you can assign the staff member to multiple clinics.
 
-### *Physician*
+### **Physician**
 
 If the staff member is specified as assistant, you can determine which physician or physicians assisted by this staff member with this section. In this way, the assistant is given the authority to access and edit the procedures in Active Examinations section on behalf of the physician.
 
-### Service Unit
+### **Service Unit**
 
 Here you can specify in which service units the staff member can work. Active checkbox indicates which service unit the staff member is working in. Default checkbox, on the other hand, refers to the default service unit where the staff member consumes medical supply or drug.
 
-### *POS Devices*
+### **POS Devices**
 
 The staff member assigned as cashier must be the responsible of the POS Devices. With this option the POS devices can be assigned to the selected staff member.
 
-### *Cashier Accounts*
+### **Cashier Accounts**
 
 If the staff member is appointed as a cashier, you can determine the bank accounts in which cash is deposited according to the facility and currency type.
 
 
 
 ---
-## Privileges
+## **Privileges**
 
 In 'Staff' session, you can determine the privileges about cancelling specific transactions and updating dates for transactions.
 
-### *Cancel Transactions*
+### **Cancel Transactions**
 
 
 
 You can define what type of transaction can be cancelled and who can cancel the transaction. Click the 'New'. Then choose an employee from staff and select a transaction type.
 
-### *Transaction Date Privilage*
+### **Transaction Date Privilage**
 
 
 
@@ -77,6 +77,6 @@ You can give privilige to an employee. The employee also can modify the date on 
 
 ---
 
-## Change Default Facility
+## **Change Default Facility**
 
 You can select your facility that you work in and set as default. For example, a front office representative will see the facility set by default in the facility area during the outpatient registration session when admitting patients.
