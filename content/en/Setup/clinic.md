@@ -7,7 +7,6 @@ description: >
   Learn how to create a department and assign medical form to each department
 ---
 
-## Department
 
 ### Specifying the health services for each department
 
