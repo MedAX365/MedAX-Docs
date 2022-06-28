@@ -78,9 +78,7 @@ You can use three type of ledger journal name in MedAX, these are customer payme
 
 | Journals                 | Journal Type     |  
 |--------------------------|:-----------------|
-| `Service cost`           | Daily            | 
-|                                  
-|                               
+| `Service cost`           | Daily            |
 | `Revenue Recognition`    | Daily            |
 | `Cash Collection`        | Customer Payment |
 | `Cash Refund`            | Customer Payment |
