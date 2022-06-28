@@ -4,10 +4,10 @@ linkTitle: "Person Search"
 date: 2021-12-08T09:22:27+01:00
 weight: 1
 description: >
-  Create a new patient or find the patient registered
+  Learn how to create a new patient and find the patient registered
 ---
 
-#  **Person Search**
+##  **Overview**
 
   Patient records provide the documentation patients and payers use to verify billed services. Patient records are used in many facilities for research purposes and for monitoring the quality of care provided.
 
@@ -18,29 +18,29 @@ description: >
   The information given about the patient medical records could be reached by using 'Person Search' module in MedAX.
 
 
-![](https://github.com/MedAX365/docsy/blob/main/images/PersonSearch_1.png)
+![](assets/PersonSearch_1.png)
 
   On the 'Person Search' screen, you can see the all patients created previously. The row with blue color displays as the patient selected. If you want to reach a specific patient named 'Frederic Bowman', you can populate the 'Name' field as 'Fred', then press 'Enter' and you can see the specific patient. You can also reach the specific patient by populating the other fields such as 'National ID', 'Birth Date' or 'Phone Number'.
 
 
-![](https://github.com/MedAX365/docsy/blob/main/images/PersonSearch_2.png)
+![](assets/PersonSearch_2.png)
 
 
-![](https://github.com/MedAX365/docsy/blob/main/images/PersonSearch_3.png)
+![](assets/PersonSearch_3.png)
 
 ### **Visits and Appointments Relating with the Specific Patient**
 
   In the following 'Person Search' screen, you can see the selected patient as 'Aaliyah Niekerk'. Below the patients table, you can see the visits and appointments table. The visit and appointment information that belongs to 'Aaliyah Niekerk' can be reached on the table.
 
 
-![](https://github.com/MedAX365/docsy/blob/main/images/PersonSearch_4.png)
+![](assets/PersonSearch_4.png)
 
 ### **Creating a New Patient**
 
   On the 'Person Search' screen, you can create a new patient by clicking on the 'New' button.
 
 
-![](https://github.com/MedAX365/docsy/blob/main/images/PersonSearch_5.png)
+![](assets/PersonSearch_5.png)
 
 #### **Patient Details**
 
@@ -60,31 +60,31 @@ description: >
 
 After you fill all of the necessary fields, click on 'OK'.
 
-![](https://github.com/MedAX365/docsy/blob/main/images/PersonSearch_6.png)
+![](assets/PersonSearch_6.png)
 
 You will see the patient created on the screen.
 
-![](https://github.com/MedAX365/docsy/blob/main/images/PersonSearch_7.png)
+![](assets/PersonSearch_7.png)
 
 ### **Editing Information of a Patient**
 
 When it is necessary to change any information about a patient, you can use 'Edit' on the 'Person Search'. If you want to change the birth place of a patient, change the field and click on 'OK'.
 
-![](https://github.com/MedAX365/docsy/blob/main/images/PersonSearch_11.png)
-![](https://github.com/MedAX365/docsy/blob/main/images/PersonSearch_8.png)
-![](https://github.com/MedAX365/docsy/blob/main/images/PersonSearch_12.png)
-![](https://github.com/MedAX365/docsy/blob/main/images/PersonSearch_13.png)
+![](assets/PersonSearch_11.png)
+![](assets/PersonSearch_8.png)
+![](assets/PersonSearch_12.png)
+![](assets/PersonSearch_13.png)
 
 ### **OutPatient Process**
 
 After the patient registration is completed, the outpatient process of the patient can be started by clicking 'Outpatient' on 'Person Search'. Firstly, select the relevant service and doctor according to the patient's complaint and enter the medical aid or agreement information. Also, enter the customer and policy number because of the aggreement selected. Then, click 'OK'.
 
-![](https://github.com/MedAX365/docsy/blob/main/images/PersonSearch_14.png)
-![](https://github.com/MedAX365/docsy/blob/main/images/PersonSearch_15.png)
+![](assets/PersonSearch_14.png)
+![](assets/PersonSearch_15.png)
 
 You will see the visit created that belongs to Jennifer Anderson.
 
-![](https://github.com/MedAX365/docsy/blob/main/images/PersonSearch_16.png)
+![](assets/PersonSearch_16.png)
 
 
 

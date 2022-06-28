@@ -99,8 +99,3 @@ For example, you can see the suitable journal names as selected in the following
 
 
 
-### **Journal Events**
-
-### **Cost**
-
-
