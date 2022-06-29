@@ -4,16 +4,16 @@ linkTitle: "Contract"
 weight: 4
 date: 2018-07-30
 description: >
-  Learn how to create an appointment and find the appointment arranged
+  Learn the concept of a contract and how to create a contract
 ---
 
-## Contract
+## **Overview**
 
 A contract  is similar to an agreement. However, the contract is only evaluated for patient share, not for sponsor. You can define 4 types of contract. These are employer, agency, campaign and loyality card. You can not apply multiple contract to a patient.
 
 You can create a contract by specifying a name and type. If the type is employer. You can also specify your employer.
 
-### The Types of Contract
+### **The Types of Contract**
 
 #### *Employer*
 
@@ -31,7 +31,7 @@ You can create campaigns on specific service within a period of time. You can ma
 
 Loyality Card is a privilege for your customers. For example, a patient has a loyality card. And you can determine a special price for a cholestrol test. The price is only valid for a patient that has the loyality card.
 
-### Periods
+### **Periods**
 
 You can determine the time period of a contract clause and link it to a contract by the help of this section. You can make facility, physician and agreement relations within the contract clause. You can link more than one clause to a contract.
 

@@ -4,14 +4,12 @@ linkTitle: "Contract Clause"
 weight: 5
 date: 2018-07-30
 description: >
-  Learn how to create an appointment and find the appointment arranged
+  Learn how to create a contract clause
 ---
 
-## Contract Clause
+## **Creating a contract clause**
 
 A contract clause is created as a rule used in a contract. The types of contract clauses are employer, agency, campaign and loyality card. In 'Details' section,to create a contract clause line rule, select a service and price groups elements relating the service and apply discount for patient that has a contract.
-
-### Creating a contract clause
 
 You can see the steps of creating a new contract clause.
 

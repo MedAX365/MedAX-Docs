@@ -11,8 +11,7 @@ description: >
 ### Specifying the health services for each department
 
 
-
-You can define departments in the **Setup-Department** session. For each department and for each facility, you can specify what type of health service is provided in which facility you select on behalf of the department determined. For example, cardiology department exists in Bulawayo. Once you select department as cardiology and facility as Bulawayo, you can specify the services provided in the department such as outpatient, inpatient or procedure by clicking 'Yes'.
+You can define departments in the **Setup-Department** session. For each department and for each facility, you can specify what type of health service is provided in which facility you select on behalf of the department determined. In this way, you can also determine the admission types in front office.  For example, cardiology department exists in a certain facility. Once you select department as cardiology and the facility, you can specify the services provided in the department such as outpatient, inpatient or procedure by clicking 'Yes'.
 
 ### Assigning medical form to each department
 

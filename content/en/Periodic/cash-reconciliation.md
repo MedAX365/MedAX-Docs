@@ -3,10 +3,10 @@ title: "Cash Reconciliation"
 weight: 4
 date: 2018-07-30
 description: >
-  Learn how to create an appointment and find the appointment arranged
+  Learn the function of cash reconciliation
 ---
 
-## Cash Reconciliation
+## **Cash Reconciliation**
 
 At the end of the shift, the cashier deposits the collections and delivers the legal forms issued to facility treasure. In 'Cash Reconciliation' you can see the all cashier transactions and approve the transactions. This session is processed compatibly with 'Cashier Transactions' in 'Front Search'. For example, once the facility cashier approve a deposit, cashier can see that the deposit has been approved on 'Cashier Transaction'.
 
