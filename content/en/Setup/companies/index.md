@@ -89,9 +89,9 @@ You can use three type of ledger journal name in MedAX, these are customer payme
 | `Cashier Diff`           | Cash             |
 | `Cashier Reconciliation` | Cash             |
 
-You can create the suitable journal names for the transactions mentioned above in **General Ledger-Journal Setup-Journal Names** section. By the help of the journal names, you can make the accounting setups, track the transactions by voucher series and you can also classify the transactions according to the journal name description.
+You can create the proper journal names for the transactions mentioned above in **General Ledger-Journal Setup-Journal Names** section. By the help of the journal names, you can make the accounting setups, track the transactions by voucher series and you can also classify the transactions according to the journal name description.
 
-For example, you can see the suitable journal names as selected in the following image. 
+For example, you can see the proper journal names as selected in the following image. 
 
 ![](assets/Dimension-3.png)
 
