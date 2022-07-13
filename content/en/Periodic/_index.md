@@ -1,7 +1,7 @@
 ---
 title: "Periodic"
 linkTitle: "Periodic"
-weight: 8
+weight: 9
 description: >
   Keeping the Docsy theme up to date.
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Radiology"
-weight: 3
+weight: 4
 description: >
   Optional guidance and recommendations about organizing, authoring, and managing your technical documentation.
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Setup"
 linkTitle: "Setup"
-weight: 9
+weight: 10
 description: >
   description? 
 ---

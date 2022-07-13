@@ -1,6 +1,6 @@
 ---
 title: "Operation"
-weight: 6
+weight: 7
 description: >
   Some examples of Docsy in action!
 ---

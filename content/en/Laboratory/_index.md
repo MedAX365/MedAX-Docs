@@ -1,7 +1,7 @@
 ---
 title: "Laboratory"
 linkTitle: "Laboratory"
-weight: 5
+weight: 6
 description: >
   Deploying your Docsy site.
 ---
