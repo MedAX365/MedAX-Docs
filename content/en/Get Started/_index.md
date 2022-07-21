@@ -3,10 +3,12 @@ title: "Get Started"
 linkTitle: "Get Started"
 weight: 1
 description: >
-Learn the basic concepts and processes of MedAX
+  Learn the concept and components of a company and how to create a company
 ---
 
 ## MedAX USERs
+
+Learn the basic concepts and processes of MedAX
 
 
 | ![](assets/Physician.png)           | ![](assets/Receptionist.png) | ![](assets/Nursing%20Desk.png)
