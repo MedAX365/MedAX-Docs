@@ -8,21 +8,21 @@ description: >
 
 ## MedAX USERs
 
-![](assets/Physician.png)
 
 
 
-| ![](assets/Physician.png) | ![](assets/Receptionist.png) | ![](assets/NursingDesk.png) |
-|:-------------------------:|:----------------------------:|:---------------------------:|
-|       **Physician**       |       **Receptionist**       |      **Nursing Desk**       |
-|        Description        |         Description          |         Description         |
-|           Link            |             Link             |            Link             |
 
-| ![](assets/Radiology.png) | ![](assets/Laboratory.png) | ![](assets/Admin.png) |
-|:-------------------------:|:--------------------------:|:-----------------------------:|
-|       **Radiology**       |       **Laboratory**       |           **Admin**           |
-|        Description        |        Description         |          Description          |
-|           Link            |            Link            |             Link              |
+| ![](Physician.png) | ![](Receptionist.png) | ![](NursingDesk.png) |
+|:------------------:|:-------------------:|:------------------:|
+|   **Physician**    |  **Receptionist**   |  **Nursing Desk**  |
+|    Description     |     Description     |    Description     |
+|        Link        |        Link         |        Link        |
+
+| ![](Radiology.png) | ![](Laboratory.png) | ![](Admin.png) |
+|:----------------:|:-----------------:|:------------:|
+|  **Radiology**   |  **Laboratory**   |  **Admin**   |
+|   Description    |    Description    | Description  |
+|       Link       |       Link        |     Link     |
 
 ## MedAX SETUP
 
