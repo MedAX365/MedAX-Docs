@@ -12,13 +12,13 @@ description: >
 
 
 
-| ![](assets/Physician.png) | ![](assets/Receptionist.png) | ![](assets/Nursing%20Desk.png) |
-|:-------------------------:|:----------------------------:|:------------------------------:|
-|       **Physician**       |       **Receptionist**       |        **Nursing Desk**        |
-|        Description        |         Description          |          Description           |
-|           Link            |             Link             |              Link              |
+| ![](assets/Physician.png) | ![](assets/Receptionist.png) | ![](assets/NursingDesk.png) |
+|:-------------------------:|:----------------------------:|:---------------------------:|
+|       **Physician**       |       **Receptionist**       |      **Nursing Desk**       |
+|        Description        |         Description          |         Description         |
+|           Link            |             Link             |            Link             |
 
-| ![](assets/Radiology.png) | ![](assets/Laboratory.png) | ![](assets/Administrator.png) |
+| ![](assets/Radiology.png) | ![](assets/Laboratory.png) | ![](assets/Admin.png) |
 |:-------------------------:|:--------------------------:|:-----------------------------:|
 |       **Radiology**       |       **Laboratory**       |           **Admin**           |
 |        Description        |        Description         |          Description          |
