@@ -7,9 +7,9 @@ description: >
   Learn how to create an appointment and find the appointment arranged
 ---
 
-##  **Appointments**
+##  **Creating a new appointment**
 
-Appointments are essential for any service sector. It is considered important as it is a reservation for the work to be done. Services like doctors, lawyers, teaching, consulting etc requires appointment so that an no wastage of time is done. Reduction in probability of no service.
+Appointments are essential for any service sector. It is considered important as it is a reservation for the work to be done. Services like doctors, lawyers, teaching or consulting requires appointment so that no wastage of time is done. Reduction in probability of no service.
 
 To create a new patient appointment in MedAX, click on MedAX-Front Office-Appointments.
 
@@ -20,7 +20,7 @@ Once you open the Appointments screen, click on new button.
 
 ![](assets/Appointments_2.png)
 
-You will be able to see the patient details. On this screen, enter the patient information such as entered in the person search session.
+You will be able to see the patient details. On this screen, enter the patient information such as 'entered' in the person search session.
 
 ![](assets/Appointments_3.png)
 
