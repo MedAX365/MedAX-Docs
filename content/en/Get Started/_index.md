@@ -8,7 +8,8 @@ description: >
 
 ## MedAX USERs
 
-Learn the basic concepts and processes of MedAX
+![](assets/Physician.png)
+
 
 
 | ![](assets/Physician.png) | ![](assets/Receptionist.png) | ![](assets/Nursing%20Desk.png) |
