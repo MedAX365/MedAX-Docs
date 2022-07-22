@@ -11,17 +11,17 @@ description: >
 Learn the basic concepts and processes of MedAX
 
 
-| ![](assets/Physician.png)           | ![](assets/Receptionist.png) | ![](assets/Nursing%20Desk.png)
-:-------------------------:|:----------------------------:|:--------:
-**Physician** |       **Receptionist**       | **Nursing Desk**
-Description  |         Description          | Description
-Link |        Link         | Link
+| ![](assets/Physician.png) | ![](assets/Receptionist.png) | ![](assets/Nursing%20Desk.png) |
+|:-------------------------:|:----------------------------:|:------------------------------:|
+|       **Physician**       |       **Receptionist**       |        **Nursing Desk**        |
+|        Description        |         Description          |          Description           |
+|           Link            |             Link             |              Link              |
 
-| ![](assets/Radiology.png)          | ![](assets/Laboratory.png) | ![](assets/Administrator.png)
-:-------------------------:|:--------------------------:|:--------:
-**Radiology** |       **Laboratory**       | **Admin**
-Description  |        Description         | Description
-Link |            Link            | Link
+| ![](assets/Radiology.png) | ![](assets/Laboratory.png) | ![](assets/Administrator.png) |
+|:-------------------------:|:--------------------------:|:-----------------------------:|
+|       **Radiology**       |       **Laboratory**       |           **Admin**           |
+|        Description        |        Description         |          Description          |
+|           Link            |            Link            |             Link              |
 
 ## MedAX SETUP
 
