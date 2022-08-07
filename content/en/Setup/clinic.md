@@ -4,7 +4,7 @@ linkTitle: "Department"
 weight: 6
 date: 2018-07-30
 description: >
-  Learn how to create a department and assign medical form to each department
+  Learn how to create a department and assign medical form to each department Test
 ---
 
 
