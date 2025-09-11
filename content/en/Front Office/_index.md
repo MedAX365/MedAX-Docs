@@ -16,7 +16,7 @@ The receptionist in the front office of a hospital greet people when they enter 
 
 ##  Front Office within MedAX
 
-Creating appointments, accessing patient lists, accessing patient information, accessing visit lists, cashier transactions such as provisioning, money collection and invoicing are performed by the staff working in the front office with the MedAX program. Thanks to the access to the records opened in the visit list, it is possible to easily collect money from patients or insurance companies. Such procedures are explained in detail in the visit list section.
+Creating appointments, accessing patient lists, accessing patient information, accessing visit lists, cashier transactions such as provisioning, money collection and invoicing are performed by the staff working in the front office with the MedAX program. Thanks to the access to the records opened in the visit list, it is possible to collect money from patients or insurance companies easily. Such procedures are explained in detail in the visit list section.
 
 
 
