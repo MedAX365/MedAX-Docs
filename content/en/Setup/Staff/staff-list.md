@@ -4,7 +4,7 @@ linkTitle: "Staff List"
 date: 2021-12-08T09:22:27+01:00
 weight: 1
 description: >
-  Learn the background of creating staff, relating adjustments and priviliges.
+  Learn how to manage the Staff List page
 ---
 ## **Overview**
 
