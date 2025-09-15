@@ -9,4 +9,4 @@ description: >
 
 ## Change Default Facility
 
-You can select your facility that you work in.
+You can select your facility that you work in and set as default. For example, a front office representative will see the facility set by default in the facility area during the outpatient registration session when admitting patients.
