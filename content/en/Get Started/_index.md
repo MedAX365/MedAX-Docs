@@ -15,13 +15,7 @@ description: >
 | ![](Physician.png) | ![](Receptionist.png) | ![](NursingDesk.png) |
 |:------------------:|:-------------------:|:------------------:|
 |   **Physician**    |  **Receptionist**   |  **Nursing Desk**  |
-|    Be a user account with a “physician” role or profile.
-
-Have permissions to do things reserved for medical doctors: e.g., enter diagnoses, order tests, write prescriptions, review lab results, view detailed patient histories, interpret radiology/LIS/RIS data.
-
-Be involved in the clinical workflows (inpatient and outpatient) that are tied to physicians: lab referrals, operations, patient discharge summaries, etc.
-
-Be subject to credential / licensing information (as part of staff management in the system).    |     Description     |    Description     |
+|    A licensed medical doctor registered in the system, authorized to diagnose, treat, prescribe, and document patient care with role-specific permissions and responsibilities.    |     A staff role responsible for patient registration, scheduling, and front-desk administrative tasks, with permissions limited to non-clinical workflows.    |    A centralized digital workspace for nurses to manage patient care tasks, documentation, and coordination within the hospital system.     |
 |        Link        |        Link         |        Link        |
 
 | ![](Radiology.png) | ![](Laboratory.png) | ![](Admin.png) |
