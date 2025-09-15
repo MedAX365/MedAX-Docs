@@ -57,26 +57,3 @@ The staff member assigned as cashier must be the responsible of the POS Devices.
 If the staff member is appointed as a cashier, you can determine the bank accounts in which cash is deposited according to the facility and currency type.
 
 
-
----
-## **Privileges**
-
-In 'Staff' session, you can determine the privileges about cancelling specific transactions and updating dates for transactions.
-
-### **Cancel Transactions**
-
-
-
-You can define what type of transaction can be cancelled and who can cancel the transaction. Click the 'New'. Then choose an employee from staff and select a transaction type.
-
-### **Transaction Date Privilage**
-
-
-
-You can give privilige to an employee. The employee also can modify the date on the transaction specified in the 'Type' column. The date range that is allowed to be changed can be created with 'Days before' and 'Days after' column by entering the day numbers.
-
----
-
-## **Change Default Facility**
-
-You can select your facility that you work in and set as default. For example, a front office representative will see the facility set by default in the facility area during the outpatient registration session when admitting patients.
