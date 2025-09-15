@@ -6,7 +6,7 @@ weight: 1
 description: >
   Learn the background of creating staff, relating adjustments and priviliges.
 ---
-## **Staff List**
+## **Overview**
 
 When you want to create staff within a certain legal entity, you need to use the staff list section. While creating the staff list, there must be workers registered in the system. Workers must first be created from the Human Resource-Workers section. Because when we click on 'Create Worker' on the staff list screen, a list appears on the screen. This list shows all workers hired by the company along with their staff member numbers. In this way, the workers selected from the list are associated with the professions in the staff type field (physician, nurse, etc.) and the assignment of the worker within a certain legal entity is completed.
 
