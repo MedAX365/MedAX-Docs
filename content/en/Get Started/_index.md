@@ -24,6 +24,7 @@ description: >
 |  **Radiology**   |  **Laboratory**   |  **Admin**   |
 |   The system module and role for managing diagnostic imaging orders, procedures, and reports, integrated with patient records and clinical workflows    |    The module and role for managing diagnostic test orders, specimen processing, and results reporting within the hospital system.    | A role responsible for managing system setup, user access, security, and maintenance, with full technical permissions but no clinical functions.  |
 |       Link       |       Link        |     Link     |
+|       Link       |       Link        |     Link     |
 
 ## MedAX SETUP
 
