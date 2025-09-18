@@ -16,7 +16,7 @@ description: >
 |:------------------:|:-------------------:|:------------------:|
 |   **Physician**    |  **Receptionist**   |  **Nursing Desk**  |
 |    A licensed medical doctor registered in the system, authorized to diagnose, treat, prescribe, and document patient care with role-specific permissions and responsibilities.    |     A staff role responsible for patient registration, scheduling, and front-desk administrative tasks, with permissions limited to non-clinical workflows.    |    A centralized digital workspace for nurses to manage patient care tasks, documentation, and coordination within the hospital system.     |
-|        [Physician](https://www.youtube.com/?app=desktop&hl=tr)        |        Link         |        Link        |
+|        [Active Examinations]([https://www.youtube.com/?app=desktop&hl=tr](https://docs.medax365.com/examination/active-examinations/))        |        Link         |        Link        |
 
 | ![](Radiology.png) | ![](Laboratory.png) | ![](Admin.png) |
 |:----------------:|:-----------------:|:------------:|
