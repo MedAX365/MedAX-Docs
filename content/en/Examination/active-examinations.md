@@ -6,7 +6,7 @@ description: >
   Learn how to manage patient examination form as a doctor
 ---
 
-# MedAX – Capturing Vital Signs (User Guide)
+# Capturing Vital Signs (User Guide)
 
 ## 1. Purpose  
 The purpose of this document is to explain the steps for accurately and completely recording patient vital signs during visits in MedAX.  
@@ -60,7 +60,7 @@ In the **Add vital** panel (opens on the right side of the screen), enter the pa
 
 ---
 
-# MedAX – Issuing Sick Notes (Medical Report)
+# Issuing Sick Notes (Medical Report)
 
 ## 1. Purpose  
 This document describes the steps to generate and issue a Sick Note (Medical Report) for patients in MedAX.  
