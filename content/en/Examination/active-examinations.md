@@ -5,8 +5,66 @@ weight: 1
 description: >
   Learn how to manage patient examination form as a doctor
 ---
+# Examination Module – Active Examinations
 
+## Overview
+The **Active Examinations** page allows physicians to manage patients who are currently undergoing a consultation. From here, the doctor can search for active visits, open a patient’s examination record, and record clinical details such as complaints, medical history, diagnoses, allergies, and progress notes.  
 
+This page is the starting point for examining patients properly and ensuring their medical record is kept complete and up-to-date.
+
+---
+
+## Accessing Active Examinations
+1. Navigate to:  
+   **MedAX > Examination > Active Examinations**  
+2. A list of all active patient examinations will be displayed.
+
+---
+
+## Page Layout
+
+### 1. Active Examinations List
+- **Filters available**:  
+  - Examination Date  
+  - Name / National ID / Person ID / Visit ID  
+  - Gender, Birth date, Birth place  
+  - Branch, Physician  
+- **Columns displayed**:  
+  - Visit ID, Transaction Date, Status  
+  - Transaction Number, Patient Name  
+  - National ID, Gender, Birth date  
+  - Mother’s Name, Father’s Name  
+
+👉 *Doctors can search or filter patients to quickly locate the correct examination.*
+
+**Screenshot:**  
+![Active Examinations List](images/active_examinations_list.png)
+
+---
+
+### 2. Patient Examination Record
+Click on a **Visit ID** (blue link) to open the detailed examination page.
+
+#### Key Tabs / Sections:
+- **Progress Notes** – record patient’s complaint, review of systems, pain scale, and past medical history (operations, dates).  
+- **Requests** – order laboratory, radiology, or other investigations.  
+- **Appointment** – manage follow-up visits.  
+- **Referral** – refer the patient to another specialty or physician.  
+- **Order / Indication / Procedure** – record medical procedures, treatments, or prescriptions.  
+- **Medical Report** – generate formal documentation (e.g. discharge notes, epicrisis).  
+- **History** – view previous visits and medical background.  
+
+**Screenshot:**  
+![Patient Examination Details](images/patient_examination_details.png)
+
+---
+
+## Recording an Examination (Example Workflow)
+
+1. **Open the patient’s record** by selecting the Visit ID.  
+2. **Enter patient complaints**
+
+---
 # Issuing Sick Notes (Medical Report)
 
 ## 1. Purpose  
