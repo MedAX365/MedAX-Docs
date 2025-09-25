@@ -63,6 +63,21 @@ Click on a **Visit ID** (blue link) to open the detailed examination page.
 
 1. **Open the patient’s record** by selecting the Visit ID.  
 2. **Enter patient complaints**
+3. **Assess pain level** using the Pain Scale (0–10).  
+4. **Add Past Medical History** – list any operations with dates.  
+5. **Review of Systems** – mark symptoms such as recent weight change, depression, etc.  
+6. **Add Diagnoses** – click **+ Add Diagnosis**, choose from the medical code list.  
+7. **Record Allergies** – click **+ Add Allergy**, select allergy type (e.g. Peanut, Penicillin).  
+8. **Save progress** – ensure all notes are updated before navigating away.  
+
+---
+
+## Best Practices
+- Always verify patient identity using **Name, National ID, and Visit ID** before starting.  
+- Record **complaints in patient’s own words** whenever possible.  
+- Update **allergies and past medical history** at every visit.  
+- Use **diagnosis codes** consistently for reporting and billing purposes.  
+- Document **pain scale** at each encounter for continuity of care.  
 
 ---
 # Issuing Sick Notes (Medical Report)
