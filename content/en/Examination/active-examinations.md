@@ -37,7 +37,6 @@ This page is the starting point for examining patients properly and ensuring the
 
 👉 *Doctors can search or filter patients to quickly locate the correct examination.*
 
-**Screenshot:**  
 ![Active Examinations List](Screenshot_8.png)
 
 ---
@@ -54,8 +53,7 @@ Click on a **Visit ID** (blue link) to open the detailed examination page.
 - **Medical Report** – generate formal documentation (e.g. discharge notes, epicrisis).  
 - **History** – view previous visits and medical background.  
 
-**Screenshot:**  
-![Patient Examination Details](images/patient_examination_details.png)
+![Patient Examination Details](Screenshot_9.png)
 
 ---
 
