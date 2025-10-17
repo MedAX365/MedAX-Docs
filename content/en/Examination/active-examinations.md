@@ -8,7 +8,7 @@ description: >
 # Examination Module – Active Examinations
 
 ## Overview
-The **Active Examinations** page allows physicians to manage patients who are currently undergoing a consultation. From here, the doctor can search for active visits, open a patient’s examination record, and record clinical details such as complaints, medical history, diagnoses, allergies, and progress notes.  
+The **Active Examinations** page allows physicians to manage patients who are currently undergoing a consultation. From here, the doctor can search for active visits, open a patient’s examination record, and record clinical details such as complaints, medical history, diagnoses, allergies, and progress notes. On this page date is today's day as a default. The doctor can change the date date and can find examination requests for the date. If the doctor deletes the date, he/she can see all the requests 
 
 This page is the starting point for examining patients properly and ensuring their medical record is kept complete and up-to-date.
 
@@ -38,7 +38,7 @@ This page is the starting point for examining patients properly and ensuring the
 👉 *Doctors can search or filter patients to quickly locate the correct examination.*
 
 **Screenshot:**  
-![Active Examinations List](Screenshot_9.png)
+![Active Examinations List](Screenshot_8.png)
 
 ---
 
