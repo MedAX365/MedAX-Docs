@@ -121,7 +121,7 @@ After entering the required information, click **Generate Report**.
 - For long-term absence, an extended medical certificate may be required.  
 - Once issued, Sick Notes cannot be modified — if correction is needed, a new note must be generated.
 
-# Creating a Referral Letter in MedAX (For Doctors)
+# Referral Letter Concept
 
 This guide explains how to create a **patient referral** within the **MedAX healthcare management system**, specifically for referring patients to services such as **Radiology**, **Laboratory**, or other internal facilities.
 
