@@ -168,7 +168,7 @@ Complete the following fields:
 
 ---
 
-### 5. Referral letter Creation
+### 5. Referral letter creation
 On the **right-hand panel**, you can enter supplementary details with the help of **Detail** button:
 - The template is used to create a letter. (In Setup section, this function is explained in detail)
 - The doctor use the template, also edit the page if necessary
