@@ -203,7 +203,7 @@ In the example below, the doctor referred *Adam Smith* (21 years old) to **Radio
 - Referral Number: *000000026*  
 - Referral Date: *17.10.2025*
 
-![Referral Screen Example](Screenshot_10)
+![Referral Screen Example](Screenshot_10.png)
 
 ---
 
