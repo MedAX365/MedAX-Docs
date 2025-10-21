@@ -37,7 +37,7 @@ This page is the starting point for examining patients properly and ensuring the
 
 👉 *Doctors can search or filter patients to quickly locate the correct examination.*
 
-![Active Examinations List](assets/Screenshot_10.png)
+![Active Examinations List](assets/Screenshot_6.png)
 
 ---
 
